@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch ECommerseAPI",
+			"file": "/Users/fez/workplace/C#/ECommerseAPI/ECommerseAPI.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch ECommerseAPI"
+		}
+	]
+}
